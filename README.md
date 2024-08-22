@@ -1,0 +1,23 @@
+# 100 DAYS OF CODE JAVA ☕
+
+Bem-vindo ao meu repositório do #100DaysOfCode focado em Java!🎉
+
+Este repositório é dedicado ao desafio #100DaysOfCode, no qual me comprometi a codificar todos os dias, durante 100 dias consecutivos, focando exclusivamente em Java. O objetivo deste desafio é não apenas reforçar meus conhecimentos em Java, mas também criar uma rotina de estudos consistente e evoluir como desenvolvedor.
+
+Ao longo desses 100 dias, abordarei uma variedade de tópicos, desde os conceitos básicos de Java até projetos mais avançados. Vou explorar áreas como
+
+
+# Como Funciona
+
+- Diariamente: Cada dia de código será documentado com o que foi feito, aprendido e os desafios encontrados.
+- Projetos: Haverá pequenos projetos para colocar em prática o que foi aprendido.
+- Reflexões: A cada semana, farei uma reflexão sobre o progresso, o que foi mais desafiador e como estou evoluindo.
+
+# Estrutura do Repositório
+- DiaX/: Pasta contendo o código do dia X, onde cada dia de código terá sua própria pasta.
+- Projeto/: Diretório com os projetos mais significativos desenvolvidos ao longo do desafio.
+- Resumo Semanais/: Arquivos com reflexões e aprendizados de cada semana.
+
+# Objeto Final
+Ao término dos 100 dias, espero ter um portfólio robusto de projetos Java, além de um entendimento mais profundo da linguagem e das melhores práticas de desenvolvimento. Este repositório servirá como um registro da minha jornada e uma fonte de aprendizado para outros que também estão interessados em melhorar suas habilidades em Java.
+
