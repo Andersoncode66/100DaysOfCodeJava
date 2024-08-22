@@ -2,6 +2,9 @@
 
 Bem-vindo ao meu repositório do #100DaysOfCode focado em Java!🎉
 
+![image](https://github.com/user-attachments/assets/4ba416d7-58bc-4dce-ab74-38c817c09780)
+
+
 Este repositório é dedicado ao desafio #100DaysOfCode, no qual me comprometi a codificar todos os dias, durante 100 dias consecutivos, focando exclusivamente em Java. O objetivo deste desafio é não apenas reforçar meus conhecimentos em Java, mas também criar uma rotina de estudos consistente e evoluir como desenvolvedor.
 
 Ao longo desses 100 dias, abordarei uma variedade de tópicos, desde os conceitos básicos de Java até projetos mais avançados. Vou explorar áreas como
