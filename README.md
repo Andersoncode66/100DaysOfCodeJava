@@ -25,5 +25,9 @@ Ao longo desses 100 dias, abordarei uma variedade de tópicos, desde os conceito
 Ao término dos 100 dias, espero ter um portfólio robusto de projetos Java, além de um entendimento mais profundo da linguagem e das melhores práticas de desenvolvimento. Este repositório servirá como um registro da minha jornada e uma fonte de aprendizado para outros que também estão interessados em melhorar suas habilidades em Java.
 
 
+## 💻Roteiro de Estudos
+| Dia  | Tema       | Descrição |
+| :---------------- | :--------- | :--------- |
+| `01` | `Dia 1 - Olá Mundo` | `Escreva um programa que imprime "Hello World! no console, Adicione comentários de linha única e multilinha ao seu código.` |
 
 
