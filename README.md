@@ -29,5 +29,6 @@ Ao término dos 100 dias, espero ter um portfólio robusto de projetos Java, al�
 | Dia  | Tema       | Descrição |
 | :---------------- | :--------- | :--------- |
 | `01` | `Dia 1 - Olá Mundo` | `Escreva um programa que imprime "Hello World! no console, Adicione comentários de linha única e multilinha ao seu código.` |
+| `01` | `Dia 2 - Variáveis e Tipos de Dados` | `Declare inicialize variáveis para vários tipos de dados, incluindo inteiro (int), número de ponto flutuante (double) e (String). Em seguida, imprima cada variável no console. .` |
 
 
