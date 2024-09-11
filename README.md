@@ -30,8 +30,9 @@ Ao término dos 100 dias, espero ter um portfólio robusto de projetos Java, al�
 | :---------------- | :--------- | :--------- |
 | `01` | `Dia 1 - Olá Mundo` | `Escreva um programa que imprime "Hello World! no console, Adicione comentários de linha única e multilinha ao seu código.` |
 | `02` | `Dia 2 - Variáveis e Tipos de Dados` | `Declare inicialize variáveis para vários tipos de dados, incluindo inteiro (int), número de ponto flutuante (double) e (String). Em seguida, imprima cada variável no console. .` |
-| `03` | `Dia 3 - 1.Escreva um programa que leia a entrada do usuário e imprima-a no console 2. Modifique o programa para ler e imprimir diferentes tipos de dados de entrada (inteiros, números de ponto flutuante, strings) 3. Escreva um programa para ler a entrada do usuário usando a classe Scanner` |
-| `04` | `Dia 4 - 1.Escreva um programa que declare duas variáveis inteiras e execute operações aritméticas básicas (adição, subtração, multiplicação, divisão) nelas. Imprima os resultados no console. 2. Escreva um programa que calcule a área de um retângulo. Peça ao usuário para  inserir o comprimento (inteiro) e a largura (inteiro) do retângulo, calcular a área (comprimento  * largura) e imprimir o resultado. 3. Modifique o programa acima para ler números decimais como comprimento e largura e gerar a área com duas casas decimais` |
+| `03` | `Dia 3 - Entrada e Saída` | `Escreva um programa que leia a entrada do usuário e imprima-a no console. 2- Modifique o programa para ler e imprimir diferentes tipos de dados de entradas (inteiros, números de ponto flutuante, strings)  3- Escreva um programa para ler a entrada do usuário usando a classe Scanner.` |
+
+
 
 
 
